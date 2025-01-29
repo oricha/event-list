@@ -36,3 +36,6 @@ build/
 *.log
 *.out
 *.pid
+
+# Dependency directories
+node_modules/
