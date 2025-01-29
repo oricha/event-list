@@ -1,19 +1,11 @@
 {
-  "name": "dance-events",
-  "version": "1.0.0",
-  "description": "A Vue.js application to list dance events in the city.",
   "dependencies": {
     "@supabase/supabase-js": "^2.48.1",
     "pinia": "^2.3.1"
   },
   "devDependencies": {
-    "vite": "^4.0.0",
-    "vue": "^3.0.0",
-    "@vitejs/plugin-vue": "^4.0.0"
-  },
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.11",
+    "vue": "^3.5.13"
   }
 }
